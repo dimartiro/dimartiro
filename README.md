@@ -3,7 +3,8 @@
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
 - Former [@mercadolibre](https://github.com/mercadolibre), [@pedidosya](https://github.com/pedidosya) & [@coinbase](https://github.com/coinbase)
-- 🎓 BSc in Computer Science Engineer @ucudal
+- Teaching Distributed Systems [@ucudal](https://github.com/ucudal)
+- 🎓 BSc in Computer Science Engineer [@ucudal](https://github.com/ucudal)
 
 # Tech stack 👨‍💻:
 - Golang, TypeScript, JavaScript, Python, Java, Kotlin
