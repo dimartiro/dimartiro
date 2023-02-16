@@ -1,16 +1,16 @@
-# Hello, I'm Diego!
+# Hello, I'm Diego! 😄
 - Backend Software engineer and crypto enthusiast 
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
-- Former @mercadolibre, @pedidosya & @coinbase
-- BSc in Computer Science Engineer @ucudal
+- Former [@mercadolibre](https://github.com/mercadolibre), [@pedidosya](https://github.com/pedidosya) & [@coinbase](https://github.com/coinbase)
+- 🎓 BSc in Computer Science Engineer @ucudal
 
-# Tech stack:
+# Tech stack 👨‍💻:
 - Golang, TypeScript, JavaScript, Python, Java, Kotlin
 - Docker, GCP, AWS
 - MySQL, Postgres, MongoDB, Redis, ElasticSearch
 - Pub/Sub, Apache Pulsar, SQS, SNS, RabbitMQ
-- Learning: Rust, Solidity
+- 🤓 Learning: Rust, Solidity
 
 # Get in touch:
 [Linkedin](https://www.linkedin.com/in/dimartiro/)
