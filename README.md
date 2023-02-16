@@ -2,7 +2,7 @@
 - Backend Software engineer and crypto enthusiast 
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
-- Former [@mercadolibre](https://github.com/mercadolibre), [@pedidosya](https://github.com/pedidosya) & [@coinbase](https://github.com/coinbase)
+- Former [@coinbase](https://github.com/coinbase), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
 - Teaching Distributed Systems [@ucudal](https://github.com/ucudal)
 - 🎓 BSc in Computer Science Engineer [@ucudal](https://github.com/ucudal)
 
