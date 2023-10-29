@@ -7,14 +7,14 @@
 - Teaching Distributed Systems [@ucudal](https://github.com/ucudal)
 - 🎓 BSc in Computer Science Engineer [@ucudal](https://github.com/ucudal)
 
-# Tech stack 👨‍💻:
+# Tech stack 👨‍💻
 - Golang, TypeScript, JavaScript, Python, Java, Kotlin
 - Docker, GCP, AWS
 - MySQL, Postgres, MongoDB, Redis, ElasticSearch
 - Pub/Sub, Apache Pulsar, SQS, SNS, RabbitMQ
 - 🤓 Learning: Rust, Solidity
 
-# Get in touch:
+# Get in touch
 - [Linkedin](https://www.linkedin.com/in/dimartiro/)
 - [Twitter](https://twitter.com/dimartiro)
 
