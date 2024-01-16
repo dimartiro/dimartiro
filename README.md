@@ -16,7 +16,6 @@
 
 # Get in touch
 - [Linkedin](https://www.linkedin.com/in/dimartiro/)
-- [Twitter](https://twitter.com/dimartiro)
 
 <a href="https://github.com/dimartiro"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimartiro&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
