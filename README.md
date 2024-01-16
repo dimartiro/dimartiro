@@ -5,7 +5,7 @@
 - Learning Rust and Solidity
 - Former [@coinbase](https://github.com/coinbase), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
 - Teaching Distributed Systems [@ucudal](https://github.com/ucudal)
-- 🎓 BSc in Computer Science Engineer [@ucudal](https://github.com/ucudal)
+- 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal)
 
 # Tech stack 👨‍💻
 - Golang, TypeScript, JavaScript, Python, Java, Kotlin
