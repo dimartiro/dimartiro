@@ -16,8 +16,3 @@
 
 # Get in touch
 - [Linkedin](https://www.linkedin.com/in/dimartiro/)
-
-<a href="https://github.com/dimartiro"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=dimartiro&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true"/> 
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimartiro&hide_border=true&langs_count=3&theme=tokyonight"/>
-</a>
