@@ -2,9 +2,10 @@
 - Blockchain Engineer
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
-- Former [@coinbase](https://github.com/coinbase), [@Howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
-- Teaching Distributed Systems [@ucudal](https://github.com/ucudal)
+- Professor [@ucudal](https://github.com/ucudal)
 - 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal)
+- Former [@coinbase](https://github.com/coinbase), [@Howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
+
 
 # Tech stack 👨‍💻
 - Golang, TypeScript, JavaScript, Python, Java, Kotlin
