@@ -12,6 +12,3 @@
 - MySQL, Postgres, MongoDB, Redis, ElasticSearch
 - Pub/Sub, Apache Pulsar, SQS, SNS, RabbitMQ
 - 🤓 Learning: Rust, Solidity
-
-# Get in touch
-- [Linkedin](https://www.linkedin.com/in/dimartiro/)
