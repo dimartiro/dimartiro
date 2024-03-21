@@ -1,5 +1,5 @@
 # Hello, I'm Diego! 😄
-- Protocol Engineer [@ChainSafe](https://github.com/ChainSafe) working on [Gossamer](https://github.com/ChainSafe/gossamer)
+- Blockchain Engineer
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
 - Former [@coinbase](https://github.com/coinbase), [@Howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
