@@ -2,7 +2,7 @@
 - Protocol Engineer [@ChainSafe](https://github.com/ChainSafe) working on [Gossamer](https://github.com/ChainSafe/gossamer)
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
-- Former [@Howdy](https://github.com/austin-software) [@coinbase](https://github.com/coinbase), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
+- Former [@coinbase](https://github.com/coinbase), [@Howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
 - Teaching Distributed Systems [@ucudal](https://github.com/ucudal)
 - 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal)
 
