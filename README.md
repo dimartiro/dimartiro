@@ -3,7 +3,7 @@
 - Golang / Node.js developer who loves learn new technologies.
 - Learning Rust and Solidity
 - Professor [@ucudal](https://github.com/ucudal)
-- 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal)
+- 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal) (Distributed Systems & Programming Paradigms)
 - Former [@coinbase](https://github.com/coinbase), [@Howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
 
 
