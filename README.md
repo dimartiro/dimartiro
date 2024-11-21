@@ -1,5 +1,5 @@
 # Hello, I'm Diego! 😄
-- Blockchain Engineer
+- Senior Protocol Engineer
 - Golang / Node.js developer who loves learn new technologies.
 - Professor [@ucudal](https://github.com/ucudal)
 - 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal) (Distributed Systems & Programming Paradigms)
