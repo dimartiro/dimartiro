@@ -1,18 +1,19 @@
 # Hello, I'm Diego! 😄
 - Senior Protocol Engineer
 - Golang / Node.js developer who loves learn new technologies.
-- Professor [@ucudal](https://github.com/ucudal)
-- 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal) (Distributed Systems & Programming Paradigms)
+- Learning: Rust
+- Professor [@ucudal](https://github.com/ucudal) (Distributed Systems & Programming Paradigms)
+- 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal) 
 - Former [@coinbase](https://github.com/coinbase), [@Howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
 
 
 # Tech stack 👨‍💻
-- Golang, TypeScript, JavaScript, Python, Java, Kotlin
+- Golang, Rust, TypeScript, Python, Kotlin
 - GCP, AWS
-- Docker
+- Docker, K8s
 - SQL and NoSQL DBs
 - Messages queues
-- 🤓 Learning: Rust, Solidity
+
 
 # Contact
 - [Keybase](https://keybase.io/dimartiro)
