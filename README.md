@@ -1,7 +1,7 @@
 # Hello, I'm Diego! 😄
 - Senior Protocol Engineer
 - Rust / Golang developer who loves learn new technologies.
-- Contributing polkadot [@paritytech](https://github.com/paritytech)
+- Contributing to Polkadot [@paritytech](https://github.com/paritytech)
 - Professor [@ucudal](https://github.com/ucudal) (Distributed Systems & Programming Paradigms)
 - 🎓 BSc in Computer Science [@ucudal](https://github.com/ucudal) 
 - Former [@tanssi](https://github.com/moondance-labs/tanssi), [@exodus](https://github.com/exodusmovement), [@coinbase](https://github.com/coinbase), [@howdy](https://github.com/austin-software), [@pedidosya](https://github.com/pedidosya) & [@mercadolibre](https://github.com/mercadolibre)
