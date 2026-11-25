@@ -9,11 +9,10 @@
 
 
 # Tech stack 👨‍💻
-- Rust, Golang, Python, TypeScript
-- Substrate
-- Docker
+- Golang, Python, TypeScript, Rust
+- Substrate / Polkadot SDK
 - SQL and NoSQL DBs
-- GCP, AWS
+- AWS, GCP
 
 # Contact
 - [Keybase](https://keybase.io/dimartiro)
